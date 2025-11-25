@@ -36,11 +36,11 @@ i. Compilation, build
 ii. Output  
 C:  
 ![alt text](image-1.png)  
-[(<../C++ Output.txt>) ](<../C Output.txt>) 
+[(<C Output.txt>) ](<../C Output.txt>) 
 
 C++:  
 ![alt text](image-2.png)  
-[(<../C Output.txt>)](<../C++ Output.txt>)
+[(<C Output.txt>)](<../C++ Output.txt>)
 
 # e.Analysis
 - Multiplicative Hash 對整數 key 的分布均勻，但仍可能因 table size 選擇而出現 collision

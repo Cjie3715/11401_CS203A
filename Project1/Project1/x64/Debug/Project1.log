@@ -1,6 +1,0 @@
-﻿  hash_fn.cpp
-C:\Users\jason\OneDrive\桌面\資料結構\AssignmentIV\11401_CS203A\Project1\Project1\hash_fn.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-C:\Users\jason\OneDrive\桌面\資料結構\AssignmentIV\11401_CS203A\Project1\Project1\hash_fn.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-C:\Users\jason\OneDrive\桌面\資料結構\AssignmentIV\11401_CS203A\Project1\Project1\hash_fn.cpp(33,12): warning C4244: '=': 將 '__int64' 轉換為 'unsigned long'，由於類型不同，可能導致資料遺失
-C:\Users\jason\OneDrive\桌面\資料結構\AssignmentIV\11401_CS203A\Project1\Project1\hash_fn.cpp(36,21): warning C4244: '=': 將 '__int64' 轉換為 'unsigned long'，由於類型不同，可能導致資料遺失
-  Project1.vcxproj -> C:\Users\jason\OneDrive\桌面\資料結構\AssignmentIV\11401_CS203A\Project1\x64\Debug\Project1.exe

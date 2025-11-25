@@ -42,3 +42,28 @@ Before you begin, ensure you have the following:
 - Enable GitLens extension for enhanced Git insights.
 
 By following these steps, you can easily connect and manage your GitHub repositories using Visual Studio Code.
+
+
+#開發環境
+    作業系統:Windows 11
+        IDE:Visual Studio Code
+
+Git指令:
+    -git config --global user.name "your name" //設定使用者名稱
+    -git config --global user.email "your emmail" //設定使用者email
+    -git init //建立.git資料夾
+    -git status //確認git狀態
+    -git add file_name //將檔案加入tracked
+    -git add . //將目前資料夾的所有檔案加入tracked
+    -git commit -m "註記" //將檔案提交至git
+    -git log //檢視過去提交紀錄(按q退出)
+    -git diff 還原點ID //比較版本差異
+    -git checkout 還原點ID -- 檔案名稱 //還原
+    -git push //將專案推送至GitHub
+    -git pull //與GitHub同步專案
+    -git checkout -b //新增分支
+    
+
+
+
+

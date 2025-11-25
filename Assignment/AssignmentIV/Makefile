@@ -3,8 +3,8 @@ CC      := gcc
 CXX     := g++
 
 # Flags (adjust as you like)
-CFLAGS   := -std=c23 -Wall -Wextra -Wpedantic -g
-CXXFLAGS := -std=c++23 -Wall -Wextra -Wpedantic -g
+CFLAGS   := -std=c11 -Wall -Wextra -Wpedantic -g
+CXXFLAGS := -std=c++17 -Wall -Wextra -Wpedantic -g
 
 # ==== C version ====
 C_SRCS := C/main.c C/hash_fn.c
